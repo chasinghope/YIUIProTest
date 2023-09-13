@@ -1,0 +1,3 @@
+[submodule "Assets/YIUI"]
+	path = Assets/YIUI
+	url = https://github.com/LiShengYang-yiyi/YIUI.git
